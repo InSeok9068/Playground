@@ -1,6 +1,4 @@
 {
-  "name": "javascript-playground",
-  "dependencies": {
-    "lodash": "^4.17.21"
-  }
+  "name": "javascript",
+  "dependencies": {}
 }
